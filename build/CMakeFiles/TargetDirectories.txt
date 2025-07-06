@@ -1,0 +1,8 @@
+/home/aleksic/PeerSpeak/build/CMakeFiles/imgui.dir
+/home/aleksic/PeerSpeak/build/CMakeFiles/PeerSpeak.dir
+/home/aleksic/PeerSpeak/build/CMakeFiles/echo_server.dir
+/home/aleksic/PeerSpeak/build/CMakeFiles/echo_client.dir
+/home/aleksic/PeerSpeak/build/CMakeFiles/echo_client_tls.dir
+/home/aleksic/PeerSpeak/build/CMakeFiles/echo_server_tls.dir
+/home/aleksic/PeerSpeak/build/CMakeFiles/edit_cache.dir
+/home/aleksic/PeerSpeak/build/CMakeFiles/rebuild_cache.dir

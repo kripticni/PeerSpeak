@@ -1,0 +1,3 @@
+/home/aleksic/PeerSpeak/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate.dir
+/home/aleksic/PeerSpeak/build/_deps/sdl3-subbuild/CMakeFiles/edit_cache.dir
+/home/aleksic/PeerSpeak/build/_deps/sdl3-subbuild/CMakeFiles/rebuild_cache.dir

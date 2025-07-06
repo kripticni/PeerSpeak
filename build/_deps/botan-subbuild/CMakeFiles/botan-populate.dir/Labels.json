@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/CMakeFiles/botan-populate"
+		},
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/CMakeFiles/botan-populate.rule"
+		},
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/CMakeFiles/botan-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/botan-populate-prefix/src/botan-populate-stamp/botan-populate-build.rule"
+		},
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/botan-populate-prefix/src/botan-populate-stamp/botan-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/botan-populate-prefix/src/botan-populate-stamp/botan-populate-download.rule"
+		},
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/botan-populate-prefix/src/botan-populate-stamp/botan-populate-install.rule"
+		},
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/botan-populate-prefix/src/botan-populate-stamp/botan-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/botan-populate-prefix/src/botan-populate-stamp/botan-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/botan-populate-prefix/src/botan-populate-stamp/botan-populate-test.rule"
+		},
+		{
+			"file" : "/home/aleksic/PeerSpeak/build/_deps/botan-subbuild/botan-populate-prefix/src/botan-populate-stamp/botan-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"botan-populate"
+		],
+		"name" : "botan-populate"
+	}
+}

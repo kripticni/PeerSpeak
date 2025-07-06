@@ -1,0 +1,1 @@
+/nix/store/0fsnicvfpf55nkza12cjnad0w84d6ba7-gcc-wrapper-14.2.1.20250322/bin/g++ -Wl,--dependency-file=CMakeFiles/echo_client.dir/link.d CMakeFiles/echo_client.dir/src/echo_client.cpp.o -o bin/echo_client

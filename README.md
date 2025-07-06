@@ -19,6 +19,7 @@ Using:
 - SDL2/SDL3  
 - OpenGL  
 - OpenSSL  
+- GPGME
 - Asio  
 - SQLiteCpp  
 And building with cmake and clang++ to allow  
